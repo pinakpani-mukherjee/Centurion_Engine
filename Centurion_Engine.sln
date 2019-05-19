@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{A5C83EB7-13FA-471E-B056-D836B8943813}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Centurion_Engine", "Centurion_Engine\Centurion_Engine.vcxproj", "{90B16D80-0021-4C3E-8CE5-D66C63F78AE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90B16D80-0021-4C3E-8CE5-D66C63F78AE9}.Debug|x64.ActiveCfg = Debug|x64
+		{90B16D80-0021-4C3E-8CE5-D66C63F78AE9}.Debug|x64.Build.0 = Debug|x64
+		{90B16D80-0021-4C3E-8CE5-D66C63F78AE9}.Release|x64.ActiveCfg = Release|x64
+		{90B16D80-0021-4C3E-8CE5-D66C63F78AE9}.Release|x64.Build.0 = Release|x64
+		{A5C83EB7-13FA-471E-B056-D836B8943813}.Debug|x64.ActiveCfg = Debug|x64
+		{A5C83EB7-13FA-471E-B056-D836B8943813}.Debug|x64.Build.0 = Debug|x64
+		{A5C83EB7-13FA-471E-B056-D836B8943813}.Release|x64.ActiveCfg = Release|x64
+		{A5C83EB7-13FA-471E-B056-D836B8943813}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73EC70F8-20DA-4E87-8BB6-218626FC7491}
+	EndGlobalSection
+EndGlobal
